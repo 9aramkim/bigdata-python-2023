@@ -41,3 +41,4 @@
     - numpy
     - matplotlib
     
+## 6일차
